@@ -2,6 +2,6 @@
 Code and schematic for a tree farm.
 
 
-Accelerator tubes are input/output
+Drawer controller is item output
 
-HV cable is power input
+HV cable is power input \[has to match the battery box]
