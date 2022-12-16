@@ -41,3 +41,9 @@
 5 Empty spaces in the tree
 
 8 Extra empty spaces if the vacuum tube was part of the dimensions
+
+
+#Schematic:
+
+Schematic file link:
+https://blockexchange.minetest.ch/schema/The4spaceconstants/tree_farm
