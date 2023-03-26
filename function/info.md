@@ -29,13 +29,17 @@
 
 2x Conducting tube
 
-2x Normal tube (accelerator works too)
+3x Normal tube (accelerator works too)
 
 1x Chainsaw (for node breaker)
 
 1x Vacuum tube (With other satellite vacuum tube-broken tube contraptions to bring the drops closer)
 
 1x Autocrafter (crafts mulch with wood and leaves)
+
+1x Digiline and Mesecon conducting tube
+
+1x Super glow glass
 
 
 #Dimensions:
