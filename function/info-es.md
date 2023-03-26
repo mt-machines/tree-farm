@@ -1,45 +1,50 @@
 # Materiales requeridos:
 
-2x Mesecon
+7x Mesecon
 
-1 Caja de batería de cualquier tipo (conectada a una red suficiente) (En lugar de la caja de batería de alto voltaje en la imagen / esquema)
+1x Caja de baterías de cualquier tipo (conectada a una red suficiente) (En lugar de la caja de baterías MV en la imagen / esquema)
+ 1x Unidad lógica de control en una ranura de actualización (eso significa que la caja debe estar orientada exactamente como en la imagen / esquema)
 
 1x Mesecon T aislado
 
-1x Cofre público de cualquier tipo (En lugar del cofre dorado de la imagen/esquema)
+1x Codo mesecon aislado
 
-1x Interruptor de nodo
+1x Cofre/tubo de salida de cualquier tipo (En lugar del tubo de teletransportación en la imagen / esquema)
+
+2x Disyuntor de nodos
+ El que tiene el inyector orientado hacia arriba tiene la motosierra, el otro tiene el mantillo.
 
 1x Implementador
+ Contiene solo árboles jóvenes
 
-1x Detector de nodos  (moretrees:oak_trunk)
+1x Detector de nodos (moretrees:oak_trunk)
 
-1x Luatube
+1x Tubo controlado por Lua
+ Código en code.lua
 
-1x Inyector sabio del artículo
+1x controlador Lua
+ Envía un montón de mensajes basura para quemar el tubo controlado por lua por `event.type == "program"`
 
-1x Tubo conductor
+2x Inyector por artículo
 
-2x Tubo normal (el acelerador también funciona)
+2x Tubo conductor
 
-1x Motosierra
+3x Tubo ordinario (el acelerador también funciona)
 
-1x Tubo de vacío
+1x Motosierra (para interruptor de nudos)
+
+1x Tubo de vacío (Con otros artilugios de tubo roto de tubo de vacío satelital para acercar las gotas)
+
+1x Autoartesano (mantillo artesanal con madera y hojas)
+
+1x Tubo conductor de digilina y mesecon
+
+1x Vidrio súper brillante
 
 
 #Cota:
 
-3x3x3 Con un tubo de vacío que sobresale
-
-3x3x4 Si el tubo de vacío era parte de las dimensiones
-
-
-5 Espacios vacíos fuera del camino del árbol
-
-5 Espacios vacíos en el árbol
-
-8 Espacios vacíos adicionales si el tubo de vacío era parte de las dimensiones
-
+4x3x4 con 9 espacios vacíos
 
 #Esquemático:
 
