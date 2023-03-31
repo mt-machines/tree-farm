@@ -41,6 +41,9 @@
 
 1x Vidrio súper brillante
 
+1x Tubo de clasificación
+(El mantillo va al rompedor de nodos, el salida verde tiene la configuración: (en blanco, tronco de árbol, hojas de árbol), opuesto al rompedor de nodos tiene la configuración: (tronco de árbol, hojas de árbol))
+
 
 #Cota:
 
