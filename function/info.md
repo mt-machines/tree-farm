@@ -42,7 +42,8 @@
 
 1x Super glow glass
 
-1x Sorting tube (Mulch goes to node breaker, green has the config: (blank, tree trunk, tree leaves), opposite the node breaker has the config: (tree trunk, tree leaves))
+1x Sorting tube
+ (Mulch goes to node breaker, green has the config: (blank, tree trunk, tree leaves), opposite the node breaker has the config: (tree trunk, tree leaves))
 
 
 #Dimensions:
