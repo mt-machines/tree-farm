@@ -3,7 +3,8 @@
 7x Mesecon
 
 1x Battery box of any kind (connected to a sufficient network) (In place of the MV battery box in the image/schematic)
- 1x Control logic unit in an upgrade slot (That means the box has to be oriented exactly like in the image/schematic)
+
+1x Control logic unit in an upgrade slot (That means the box has to be oriented exactly like in the image/schematic)
 
 1x Insulated mesecon T
 
@@ -11,18 +12,18 @@
 
 1x Output chest/tube of any kind (In place of the teleportation tube in the image/schematic)
 
-2x Node breaker
+2x Node breaker,
  The one with the upward facing injector has the chainsaw, the other has the mulch.
 
-1x Deployer
+1x Deployer,
  Contains only saplings
 
 1x Node detector (moretrees:oak_trunk)
 
-1x Lua controlled tube
+1x Lua controlled tube,
  Code in code.lua
 
-1x Lua controller
+1x Lua controller,
  Sends a bunch of garbage messages to burn the lua controlled tube on `event.type = program`
 
 2x Itemwise injector
@@ -40,6 +41,8 @@
 1x Digiline and Mesecon conducting tube
 
 1x Super glow glass
+
+1x Sorting tube (Mulch goes to node breaker, green has the config: (blank, tree trunk, tree leaves), opposite the node breaker has the config: (tree trunk, tree leaves))
 
 
 #Dimensions:
